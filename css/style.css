@@ -10,6 +10,8 @@ body {
   transform: translate(-53%, -60%);
 }
 
+
+
 #container.fin .path-1, #container.fin .path-2, #container.fin .path-3 {
   stroke-dashoffset: 0;
 }
