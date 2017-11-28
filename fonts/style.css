@@ -8,9 +8,6 @@
     transform: translate(-53%, -60%);
 }
 
-
-
-
 #container .fin .path-1, .path-2, .path-3 {
   stroke-dashoffset: 0;
 }
