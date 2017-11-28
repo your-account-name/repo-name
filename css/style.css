@@ -9,9 +9,11 @@ body {
   left: 50%;
   transform: translate(-53%, -60%);
 }
+
 #container.fin .path-1, #container.fin .path-2, #container.fin .path-3 {
   stroke-dashoffset: 0;
 }
+
 #container.fin .path-4 {
   stroke-width: 18px;
 }
