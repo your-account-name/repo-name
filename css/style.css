@@ -1,6 +1,8 @@
 body {
   background: #ff837b;
+
 }
+
 
 #container {
   width: 600px;
@@ -14,6 +16,7 @@ body {
 
 #container.fin .path-1, #container.fin .path-2, #container.fin .path-3 {
   stroke-dashoffset: 0;
+  
 }
 
 #container.fin .path-4 {

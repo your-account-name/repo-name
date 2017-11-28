@@ -1,6 +1,7 @@
 $(function() {
 
     function animationStart() {
+    	
         $('#container').addClass('fin');
     }
 
